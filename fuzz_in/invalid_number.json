@@ -1,0 +1,6 @@
+{
+  "badNumber1": 0123,
+  "badNumber2": 1.2.3,
+  "badNumber3": -.5.5
+}
+
